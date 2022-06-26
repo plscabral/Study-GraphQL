@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj",
       "projectName": "Study.Domain",
-      "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj",
+      "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj",
       "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\obj\\",
+      "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",

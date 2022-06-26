@@ -1940,11 +1940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\Study.Api.csproj",
+      "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\Study.Api.csproj",
       "projectName": "Study.Api",
-      "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\Study.Api.csproj",
+      "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\Study.Api.csproj",
       "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\obj\\",
+      "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1961,11 +1961,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj": {
-              "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj"
+            "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj": {
+              "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj"
             },
-            "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\Study.Repository.csproj": {
-              "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\Study.Repository.csproj"
+            "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Repository\\Study.Repository.csproj": {
+              "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Repository\\Study.Repository.csproj"
             }
           }
         }

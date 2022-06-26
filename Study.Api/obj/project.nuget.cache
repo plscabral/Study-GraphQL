@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qwPg0Frb5wpeT2Y7di+PFW/DsOdrgwe5xhJXwXeZ0Rzl5vpjh1Fs5zCoxHaJ8/mvZMJXMR7ART9AMez6feknpQ==",
+  "dgSpecHash": "jw+s/poZsw3zlCBpc2Tbs7NBKXShj457i3w33/lhBii1fztY5hjx0KlVU5XEEyXtrHHqN9mFuYYhWFtBWC64DQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\Study.Api.csproj",
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\Study.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\greendonut\\12.11.1\\greendonut.12.11.1.nupkg.sha512",

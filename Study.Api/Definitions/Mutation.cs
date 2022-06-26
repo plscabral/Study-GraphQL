@@ -22,10 +22,8 @@ namespace Study.Api.Model
             {
                 Id = ObjectId.GenerateNewId().ToString(),
                 Name = user.Name,
-                Surname = user.Surname,
                 Email = user.Email,
                 Password = user.Password,
-                BirthDate = user.BirthDate,
                 CreatedAt = DateTime.Now,
             };
 

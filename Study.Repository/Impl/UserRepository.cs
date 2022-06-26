@@ -41,8 +41,6 @@ namespace Study.Repository.Impl
             var filter = Builders<User>.Filter.Eq("_id", user.Id);
             var update = Builders<User>.Update
                 .Set(x => x.Name, user.Name)
-                .Set(x => x.Surname, user.Surname)
-                .Set(x => x.BirthDate, user.BirthDate)
                 .Set(x => x.Email, user.Email)
                 .Set(x => x.Password, user.Password)
                 ;

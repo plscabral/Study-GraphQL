@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDXcAeLQKeLbDbQEG6swkxmypTr0wMyB//QNQAabJ5WYuG0TuNne7g9zZR6amai7id1HqjX6VgdeLzV7bh0khg==",
+  "dgSpecHash": "u7tnLZNE+MGUQL8YPAeAZgLbhhs44r4TB24k9jXRdzeeMONms1lLvndx2tMYJ62eR6Y/wAEAxBfejFi2bkZUxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj",
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"

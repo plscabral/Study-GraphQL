@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\Study.Api.csproj": {}
+    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\Study.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\Study.Api.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\Study.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\Study.Api.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\Study.Api.csproj",
         "projectName": "Study.Api",
-        "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\Study.Api.csproj",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\Study.Api.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Api\\obj\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj": {
-                "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj"
               },
-              "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\Study.Repository.csproj": {
-                "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\Study.Repository.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Repository\\Study.Repository.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Repository\\Study.Repository.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj",
         "projectName": "Study.Domain",
-        "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\obj\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\Study.Repository.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Repository\\Study.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\Study.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Repository\\Study.Repository.csproj",
         "projectName": "Study.Repository",
-        "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\Study.Repository.csproj",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Repository\\Study.Repository.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\obj\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,8 +158,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj": {
-                "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Domain\\Study.Domain.csproj"
+              "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj": {
+                "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study-GraphQL\\Study.Domain\\Study.Domain.csproj"
               }
             }
           }
