@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "sq36pD/VXXyTexMrLfGK0C5ZjwooY4PCPBtgPJb8PdWgS/rhVEk291EeXp6rAZpfH79kWepsSsNYduY6vWRyCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\Study\\Study.Repository\\Study.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\mongodb.driver\\2.16.1\\mongodb.driver.2.16.1.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\mongodb.driver.core\\2.16.1\\mongodb.driver.core.2.16.1.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\mongodb.libmongocrypt\\1.5.3\\mongodb.libmongocrypt.1.5.3.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

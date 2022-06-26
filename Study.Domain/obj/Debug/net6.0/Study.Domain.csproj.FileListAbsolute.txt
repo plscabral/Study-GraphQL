@@ -1,0 +1,12 @@
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\bin\Debug\net6.0\Study.Domain.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\bin\Debug\net6.0\Study.Domain.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\bin\Debug\net6.0\Study.Domain.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\Study.Domain.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\Study.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\Study.Domain.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\Study.Domain.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\Study.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\Study.Domain.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\refint\Study.Domain.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\Study.Domain.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\Study\Study.Domain\obj\Debug\net6.0\ref\Study.Domain.dll
